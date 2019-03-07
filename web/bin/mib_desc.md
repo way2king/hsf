@@ -1,4 +1,5 @@
-<tbody><tr><th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MIB</font></font></th><th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC</font></font></th><th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">描述</font></font></th></tr>
+<table border="2" bgcolor="#dddddd">
+  <tbody><tr><th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MIB</font></font></th><th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC</font></font></th><th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">描述</font></font></th></tr>
   <tr>
     <td><a href="snmpv2tm.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SNMPv2-TM </font></font></a><br>
         <a href="SNMPv2-TM.txt"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">[mib文件]</font></font></a></td>
@@ -590,4 +591,4 @@ Cristian.Estan@net.utcluj.ro </font></font></pre></td>
     <td>&nbsp;</td>
     <td><pre><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">定义标准VACM视图表的Net-SNMP扩展。</font></font></pre></td>
   </tr>
-</tbody>
+</tbody></table>
